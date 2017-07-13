@@ -1,0 +1,4 @@
+[submodule "redis-sentinel-ui"]
+	path = redis-sentinel-ui
+	url = https://github.com/flaccid/redis-sentinel-ui.git
+	branch = patch-1
